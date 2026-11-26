@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Wajid Ali 👋
+# Hi, I'm Dr. Wajid Ali 
 
 **Assistant Professor of Business Analytics | Researcher | Data & Econometrics**
 
