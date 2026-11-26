@@ -4,7 +4,7 @@
 
 I am an Assistant Professor of Business Analytics at **Fortune Institute of International Business (FIIB), New Delhi**. My research focuses on applying **econometrics, machine learning, and data analytics** to business, financial, and economic problems.
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Business Analytics & Machine Learning
 - Econometrics & Quantitative Research
@@ -13,14 +13,13 @@ I am an Assistant Professor of Business Analytics at **Fortune Institute of Inte
 - Geopolitical Risk & Sustainability
 - International Business & Trade
 
-## 🛠️ Tools & Methods
+##  Tools & Methods
 
 **Python | R | Stata | MATLAB | Excel | Power BI**
 
 **System GMM | IV/2SLS | Difference-in-Differences | Quantile Regression | Machine Learning | DLNM**
 
-## 📚 Teaching
-
+##  Teaching
 I teach and develop courses in:
 
 - Business Analytics
@@ -30,7 +29,7 @@ I teach and develop courses in:
 - Machine Learning for Economics & Finance
 - International Business
 
-## 🚀 Projects
+##  Projects
 
 ### UK Electricity Price Analysis
 DLNM-based analysis of UK electricity prices and their relationship with renewable energy, electricity demand, weather conditions, and geopolitical risk.
@@ -41,7 +40,7 @@ Application of machine learning and threshold analysis to examine credit-risk dy
 ### Data Analytics Using Python
 Practical projects covering data cleaning, exploratory data analysis, visualisation, statistical analysis, and business decision-making.
 
-## 🎓 About Me
+##  About Me
 
 Ph.D. in Management from **IIT Jodhpur**, with a research background in quantitative modelling, econometrics, international business, finance, and energy economics.
 
